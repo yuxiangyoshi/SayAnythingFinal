@@ -49,18 +49,6 @@
     <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\bin\Debug\Microsoft.AspNet.SignalR.Client.dll">
       <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\bin\Debug\System.Core.dll">
-      <PackagePath>System.Core.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\bin\Debug\System.dll">
-      <PackagePath>System.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\bin\Debug\Mono.Dynamic.Interpreter.dll">
-      <PackagePath>Mono.Dynamic.Interpreter.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\bin\Debug\System.Xml.dll">
-      <PackagePath>System.Xml.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything.WinPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -99,6 +87,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything.WinPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\SayAnything\SayAnything\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>SayAnything\Microsoft.AspNet.SignalR.Client.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnything\packages\Xamarin.Forms.2.2.0.45\lib\wpa81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
